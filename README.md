@@ -1,2 +1,2 @@
-# xsolla-summer-school
 Welcome to Xsolla!
+Dmitry Davydov
