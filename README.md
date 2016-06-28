@@ -1,2 +1,1 @@
-Welcome to Xsolla!
-Dmitry Davydov
+**Welcome to Xsolla!**
